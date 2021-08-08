@@ -24,8 +24,8 @@
 > apt-get upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> pkg install mc -y
-> git clone https://github.com/sparroo/jarvis
+> pkg install mc -yhttps://github.com/Spyrosir/jarvis.git
+> git clone 
 > cd jarvis
 > bash install.sh
 > npm start
