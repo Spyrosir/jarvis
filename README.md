@@ -14,7 +14,7 @@
 </p>
 </details>
 
-### THANKS TO SPARROW
+### THANKS TO SPYRO SIR
 
 ### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
@@ -34,10 +34,10 @@
 
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
-* [`WhatsApp Group `](https://chat.whatsapp.com/I1xiHrlbW6X2Y7s1DzBLz4)
+* [`WhatsApp Number `](https://wa.me/+918590299146)
+)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`SPARROW`]
+* [SPYRO]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
